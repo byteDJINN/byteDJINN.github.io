@@ -10,12 +10,10 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "^2.0.0",
     "@sveltejs/kit": "^1.20.4",
+    "sass": "^1.69.4",
     "svelte": "^4.0.5",
     "vite": "^4.4.2"
   },
   "type": "module",
-  "dependencies": {
-    "three": "^0.157.0",
-    "three-globe": "^2.29.3"
-  }
+  "dependencies": {}
 }
