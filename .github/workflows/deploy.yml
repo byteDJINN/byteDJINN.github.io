@@ -28,8 +28,7 @@ jobs:
         env:
           BASE_PATH: '/'
         run: |
-          bun run build
-          touch build
+          bun run gh-pages
 
 
       - name: Upload Artifacts
