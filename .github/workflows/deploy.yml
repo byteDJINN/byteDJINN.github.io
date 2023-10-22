@@ -29,6 +29,7 @@ jobs:
           BASE_PATH: '/'
         run: |
           bun run build
+          touch build
 
 
       - name: Upload Artifacts
